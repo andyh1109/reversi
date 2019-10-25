@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PORT=5400
+export PORT=4899
 export MIX_ENV=prod
 export GIT_PATH=/home/othello/src/othello
 
